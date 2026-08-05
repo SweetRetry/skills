@@ -39,7 +39,6 @@ research/      跨 skill 的研究证据，不参与 skill discovery
 
 ### Web Design
 
-- `generate-web-backgrounds`：依据产品与页面职责选择 image / video，并生成 website background 资产 brief。
 - `ui-critic`：对现有界面进行取证式视觉 critique。
 - `ui-designer`：设计或实现网页与 App UI。
 
